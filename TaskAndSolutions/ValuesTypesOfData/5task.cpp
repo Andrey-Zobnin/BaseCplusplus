@@ -21,3 +21,14 @@ Hurry
 Hello, Hurry!
 
 */
+
+#include <iostream>
+#include <cstring>
+
+int main() 
+{
+    char name[100]; 
+    std::cin.getline(name, 100); 
+    std::cout << "Hello, " << name << "!" << std::endl; 
+    return 0;
+}
