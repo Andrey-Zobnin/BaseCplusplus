@@ -14,3 +14,6 @@ int main()
     std::cout << a + c + b << std::endl;
     return 0;
 }
+
+// output 
+// 224+a4+a
