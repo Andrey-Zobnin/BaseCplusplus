@@ -12,3 +12,6 @@ int main()
     cout << A << endl;
     return 0;
 }
+
+// output
+// sirius
