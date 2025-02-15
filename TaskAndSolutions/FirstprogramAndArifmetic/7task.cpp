@@ -16,13 +16,13 @@
 */
 
 #include "iostream"
-using namespace std;
+
 
 int main()
 {
   int two = 1 + 1;
   int four = two + two;
-  cout << two << " " << "+" << " " << two << " " << "=" << " " << four << endl;
-  return 0;
+  std::cout << two << " " << "+" << " " << two << " " << "=" << " " << four << std::endl;
 
+  return 0;
 }
