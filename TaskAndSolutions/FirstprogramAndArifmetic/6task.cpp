@@ -4,3 +4,12 @@
 
 */
 
+#include "iostream"
+#include "cmath"
+
+using namespace std;
+int main()
+{
+  int len = 3 * 3 * 3 * 3 * 3 * 3 * 3 * 3 * 3 * 3;
+  cout << len << endl;
+}
